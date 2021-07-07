@@ -1,6 +1,6 @@
 ---
 title: Full Stack Web Developer at Asquared IoT
-date: 2021-07-01
+date: 2021-07-07
 permalink: /posts/2021/07/Full-Stack-Web-Developer-at-Asqaured-IoT/
 ---
 
