@@ -1,7 +1,7 @@
 ---
-title: Full Stack Web Developer at Asquared IoT My Experience
+title: Full Stack Web Developer at Asquared IoT
 date: 2021-07-01
-permalink: /posts/2021/07/Full-Stack-Web-Developer-at-Asqaured-IoT-My-Experience/
+permalink: /posts/2021/07/Full-Stack-Web-Developer-at-Asqaured-IoT/
 ---
 
 I started my internship as a Full Stack Web Developer at [Asquared IoT](https://www.asquared.ai/) on the 1st of January, 2021. [Dr Anand Deshpande](https://www.linkedin.com/in/anand-m-deshpande/), the CEO of A2IoT and CSO of AlgoAnalytics was kind enough to give me a six months internship as his startup.
