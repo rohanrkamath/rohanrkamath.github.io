@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+	- title: "Publications"
     url: /publications/
 
   - title: "Projects"
@@ -10,4 +10,4 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /files/rohan_resume.pdf/
+    url: /files/rohan_resume.pdf
